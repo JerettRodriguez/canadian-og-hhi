@@ -2,8 +2,6 @@
 
 A Python-based analysis of market concentration among TSX-listed Canadian upstream 
 oil and gas producers from 2023 to 2026, using the Herfindahl-Hirschman Index (HHI).
-Built by an O&G engineer who spent too much time studying for the CFA and decided to 
-do something useful with it.
 
 ---
 
@@ -85,7 +83,7 @@ Yahoo Finance does not retain historical data for delisted tickers. Their market
 is implicitly captured through the acquiring companies' market cap growth
 - **Smoothing:** A 60-day moving average is applied to reduce daily noise and highlight 
 the underlying concentration trend
-
+![HHI Analysis](outputs/hhi_study_Plot1.png)
 ---
 
 ## Forward-Looking Scenario Analysis
@@ -107,27 +105,6 @@ independent, HHI holds at current levels
 Daily HHI and 60-day moving average with major acquisition event markers and 
 forward-looking scenario projections for the pending Shell/ARC deal to December 2026.
 ![HHI Analysis](outputs/hhi_analysis.png)
----
-
-## How to Run
-
-**1. Clone the repo**
-```bash
-git clone https://github.com/YOUR_USERNAME/canadian-og-hhi.git
-cd canadian-og-hhi
-```
-
-**2. Install dependencies**
-```bash
-pip install yfinance pandas matplotlib
-```
-
-**3. Run the analysis**
-```bash
-python hhi_analysis.py
-```
-
-Charts will save automatically to your Downloads folder.
 
 ---
 
