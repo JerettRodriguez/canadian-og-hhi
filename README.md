@@ -2,6 +2,8 @@
 
 A Python-based analysis of market concentration among TSX-listed Canadian upstream 
 oil and gas producers from 2023 to 2026, using the Herfindahl-Hirschman Index (HHI).
+I got curious about all of the consolidation in Calgary over the last few years and 
+learned about the HHI while studying for my CFA exam so decided to put it into practice.
 
 ---
 
