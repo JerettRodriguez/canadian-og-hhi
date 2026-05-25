@@ -106,7 +106,7 @@ independent, HHI holds at current levels
 **Canadian O&G HHI — 2023 to 2026 with Shell/ARC Scenario Analysis**
 Daily HHI and 60-day moving average with major acquisition event markers and 
 forward-looking scenario projections for the pending Shell/ARC deal to December 2026.
-
+![HHI Analysis](outputs/hhi_analysis.png)
 ---
 
 ## How to Run
