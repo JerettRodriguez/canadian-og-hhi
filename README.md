@@ -17,9 +17,6 @@ to 10,000 (pure monopoly).
 | 1,500 – 2,500 | Moderately Concentrated |
 | Above 2,500 | Highly Concentrated |
 
-Regulators like the Canadian Competition Bureau use HHI thresholds when reviewing 
-proposed mergers — so this isn't just an academic exercise.
-
 ---
 
 ## Why Canadian O&G?
@@ -108,20 +105,8 @@ forward-looking scenario projections for the pending Shell/ARC deal to December 
 
 ---
 
-## Dependencies
-
-- `yfinance` — market data
-- `pandas` — data manipulation
-- `matplotlib` — visualization
-
----
-
 ## Author
 
 **Jerett Rodriguez** — UAlberta Engineering grad 
 [LinkedIn](https://www.linkedin.com/in/jerett-rodriguez-6b8119208/)
 
----
-
-*This project is for educational and portfolio purposes. Nothing here constitutes 
-financial or investment advice.*
